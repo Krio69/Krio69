@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Profile</title>
+    <title>Krio69</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -41,26 +41,20 @@
 <body>
 
     <header>
-        <h1>Your GitHub Profile</h1>
-    </header>
+        <h1>Krio69 GitHub Profile</h1>
+    </header>\
 
     <div class="container">
-        <h2>Hello, I'm Your Name!</h2>
-        <p>I'm a passionate developer interested in [Your Interests]. I love to explore new technologies and solve real-world problems.</p>
+        <h2>Hello, I'm Your Kripesh!</h2>
+        <p>I'm a passionate developer interested in [web development]. I love to explore new technologies and solve real-world problems.</p>
 
         <h2>Technologies & Tools</h2>
-        <p>Programming Languages: [Languages you know]<br>
-           Frameworks: [Frameworks you are familiar with]<br>
-           Tools: [Tools you use]</p>
+        <p>Programming Languages: [C,C++,Python]<br>
 
-        <h2>Projects</h2>
-        <p><a href="link-to-project1">Project 1</a>: Short description.</p>
-        <p><a href="link-to-project2">Project 2</a>: Short description.</p>
 
         <h2>How to reach me</h2>
-        <p>Email: your.email@example.com<br>
-           LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a><br>
-           Twitter: <a href="https://twitter.com/your_twitter_handle">@your_twitter_handle</a></p>
+        <p>Email: kripeshbhele123@gmail.com<br>
+           Facebook: <a href="https://www.facebook.com/in/kripeshbhele/">Kripesh Bhele</a><br>
     </div>
 
 </body>
