@@ -62,7 +62,7 @@
 ## 🌐 Portfolio Website
 
 <p align="center">
-<a href="https://wwwkripeshbhele.com.np" target="_blank">
+<a href="https://www.kripeshbhele.com.np" target="_blank">
 <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
