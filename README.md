@@ -59,14 +59,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Portfolio Website
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krio69&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krio69&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<a href="https://wwwkripeshbhele.com.np" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
