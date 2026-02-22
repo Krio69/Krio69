@@ -27,16 +27,16 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.facebook.com/kripeshbhele.23">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+<a href="https://instagram.com/kre_pesh_" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
 </a>
 
-<a href="https://instagram.com/kre_pesh_">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+<a href="https://www.youtube.com/@kreepace5864" target="_blank">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="40"/>
 </a>
 
-<a href="https://www.youtube.com/@kreepace5864">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40"/>
+<a href="https://www.facebook.com/kripeshbhele.23" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
 </a>
 </p>
 
