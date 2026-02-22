@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 My Website
 
 <p align="center">
 <a href="https://www.kripeshbhele.com.np" target="_blank">
