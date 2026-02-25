@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kripesh Bhele</h1>
+<h1 align="center">Yo!!!! What's up? Homieeee!!!!, I'm Kripesh Bhele</h1>
 <h3 align="center">Computer Engineering Student | Web Developer | AI & Data Enthusiast</h3>
 
 ---
