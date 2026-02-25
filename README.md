@@ -1,4 +1,8 @@
-<h1 align="center">Yo!!!! What's up? Homieeee!!!!, I'm Kripesh Bhele</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=YO!!!!+WHAT'S+UP%3F+HOMIEEEEE!!!!;I'M+KRIPESH+BHELE" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">Computer Engineering Student | Web Developer | AI & Data Enthusiast</h3>
 
 ---
