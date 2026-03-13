@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/kripesh-bhele-74b4612bb/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 
 <a href="https://www.facebook.com/kripeshbhele.23" target="_blank">
