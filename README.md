@@ -79,6 +79,7 @@
 
 ## 🔥 Current Projects
 
+- CredShiel-Advanced Authentication Breach Detection System (CyberSecurity)
 - Automated Attendance System (Computer Vision)
 - Parking Finder Web Application (Django + MySQL)
 - Portfolio Website with Chatbot (Research Phase)
